@@ -1,0 +1,1 @@
+npm i express mongoose json body-parser cors dotenv nodemon 
